@@ -1,1 +1,0 @@
-export const light_blue= '#009bde';

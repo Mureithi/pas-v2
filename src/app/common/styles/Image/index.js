@@ -1,1 +1,0 @@
-export { StyledImage } from "./StyledImage";
